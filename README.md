@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimal1711&label=Profile%20views&color=0e75b6&style=flat" alt="vimal1711" /> </p>
 
-- 🔭 I’m currently working on **RPM Automation**
+- 🔭 I’m currently working on **RPM Automation.**
 
-- 🌱 I’m currently learning **CCNA, Grafana and Prometheus**
+- 🌱 I’m currently learning **CCNA, Grafana and Prometheus.**
 
 - 👯 I’m looking to collaborate on **machine learning projects.**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **DevOps.**
 
-- 💬 Ask me about **machine learning and linux**
+- 💬 Ask me about **machine learning and linux.**
 
 - 📫 How to reach me **kuwarvimal1711@gmail.com**
 

@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **machine learning projects.**
 
-- 🤝 I’m looking for help with **DevOps.**
+- 🤝 I’m looking for help with **Networking.**
 
 - 💬 Ask me about **machine learning and linux.**
 

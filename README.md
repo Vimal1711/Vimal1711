@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Automation.**
 
-- 🌱 I’m currently learning **CCNA, RHEL, Grafana and Prometheus.**
+- 🌱 I’m currently learning **Kubernetes, RHEL, Grafana and Prometheus.**
 
-- 👯 I’m looking to collaborate on **machine learning projects.**
+- 👯 I’m looking to collaborate on **Linux, Podman and python automation projects.**
 
-- 🤝 I’m looking for help with **Networking.**
+- 🤝 Happy to help on **Linux, Podman.**
 
-- 💬 Ask me about **machine learning and linux.**
+- 💬 Ask me about **Linux, Podman, containers.**
 
 - 📫 How to reach me **kuwarvimal1711@gmail.com**
 
